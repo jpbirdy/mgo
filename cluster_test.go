@@ -36,8 +36,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	mgo "github.com/globalsign/mgo"
-	"github.com/globalsign/mgo/bson"
+	mgo "github.com/jpbirdy/mgo"
+	"github.com/jpbirdy/mgo/bson"
 	. "gopkg.in/check.v1"
 )
 
